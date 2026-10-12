@@ -2,9 +2,7 @@
 
 ## 접수 관련, 주제, 마감 등의 상세 정보는 입수하는 대로 공지 예정
 
-○ 초안 참고 : [challenge_draft.pdf](file://challenge_drafe.pdf)
-
-○ 초안 참고 : [challenge_draft.pdf](challenge_drafe.pdf)
+○ 초안 참고 : [challenge_draft.pdf]([file://challenge_drafe.pdf](https://github.com/neverendingedu/class/blob/main/challenge_draft.pdf))
 
 ○ 행사명: 2026 강원 반도체 포럼
 
