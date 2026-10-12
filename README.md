@@ -2,6 +2,8 @@
 
 ## 접수 관련, 주제, 마감 등의 상세 정보는 입수하는 대로 공지 예정
 
+○ 초안 참고 : [challenge_draft.pdf](file://challenge_drafe.pdf)
+○ 초안 참고 : [challenge_draft.pdf](file://challenge_drafe.pdf)
 ○ 행사명: 2026 강원 반도체 포럼
 
 ○ 일정: 2026년 10월28일 ~ 29일
@@ -24,14 +26,15 @@
 |-|-|-|-|-|
 |10/12<br>10:00-11:00 수업<br>11:00-12:00 최강도전|13<br>09:00-10:00 회의<br>10:00-11:00 이게 반도체야<br>13:00-15:00 회의<br>16:30-17:30 AeroCare|14|15<br>강원 의료기기 CEO 포럼 (하루종일 불가)|16<br>강원 의료기기 CEO 포럼 (하루종일 불가)|
 |10/19<br>[nvidia GTC Berlin](https://www.nvidia.com/en-eu/gtc/)|20<br>nvidia GTC Berlin|21<br>nvidia GTC Berlin|22<br>nvidia GTC Berlin|23<br>nvidia GTC Berlin|
-|10/26<br>10:00-11:00 수업|27<br>11:00-12:00 Da.ro|28<br>AI&강원 반도체 포럼|29<br>AI&강원 반도체 포럼|30|
-|11/2<br>10:00-11:00 수업|3|4<br>[APCMBE 2026](https://apcmbe2026.org/)|5<br>APCMBE 2026<br>17:00-18:00 first seed|65<br>APCMBE 2026|
+|10/26<br>10:00-11:00 중간고사(휴강)|27<br>11:00-12:00 Da.ro|28<br>AI&강원 반도체 포럼|29<br>AI&강원 반도체 포럼|30|
+|11/2<br>09:00-10:00 최강도전<br>10:00-11:00 수업<br>11:00-12:00 first seed|3|4<br>[APCMBE 2026](https://apcmbe2026.org/)|5<br>APCMBE 2026|65<br>APCMBE 2026|
 |11/9<br>[nvidia AI Day seoul](https://www.nvidia.com/ko-kr/ai-days/)|10<br>nvidia AI Day seoul|11|12<br>Y-mas 경진대회|13<br>Y-mas 경진대회|
+|11/16|17|18|19<br>17:00-20:00 (가칭)멘토링 데이(오크벨리)||20<br>09:00-12:00 멘토링 데이(오크벨리)|
 
 # 팀 멘토링 카운트(필수 횟수 8회)
 |팀명|팀원|횟수|
 |-|-|-|
-|최강도전|최선우<br>강환일<br>|3|
+|최강도전|최선우<br>강환일<br>|4|
 |first seed|노은정<br>정유라<br>송채원<br>|3|
 |Da.ro|김정현<br>최은호<br>|3|
 |AeroCare|유승훈<br>강우진<br>|2|
