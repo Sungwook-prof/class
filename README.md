@@ -6,6 +6,8 @@
 
 [참가 양식](https://github.com/neverendingedu/class/blob/main/261012_2026%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EB%B0%98%EB%8F%84%EC%B2%B4%20%ED%8F%AC%EB%9F%BC%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C(%EC%95%88)%20V2.hwp)  <-- 파일 선택해서 다운버튼으로 다운로드 가능함.
 
+- 포스터에서 내용이 들어가는 부분은 1면당 845x1400mm 
+
 ○ 행사명: 2026 강원 반도체 포럼
 
 ○ 일정: 2026년 10월28일 ~ 29일
