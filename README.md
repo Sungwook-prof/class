@@ -35,7 +35,7 @@
 |-|-|-|-|-|
 |10/12<br>10:00-11:00 수업<br>11:00-12:00 최강도전|13<br>09:00-10:00 회의<br>10:00-11:00 이게 반도체야<br>16:30-17:30 AeroCare|14|15<br>강원 의료기기 CEO 포럼 (하루종일 불가)|16<br>강원 의료기기 CEO 포럼 (하루종일 불가)|
 |10/19<br>[nvidia GTC Berlin](https://www.nvidia.com/en-eu/gtc/)|20<br>nvidia GTC Berlin|21<br>nvidia GTC Berlin|22<br>nvidia GTC Berlin|23<br>nvidia GTC Berlin|
-|10/26<br>10:00-11:00 중간고사(휴강)<br>13:00-15:00 회의|27<br>09:00-10:00 회의<br>10:00-11:00 이게 반도체야<br>11:00-12:00 Da.ro<br>12:00-15:00 과제 연구원 미팅|28<br>AI&강원 반도체 포럼|29<br>AI&강원 반도체 포럼|30|
+|10/26<br>10:00-11:00 중간고사(휴강)<br>13:00-15:00 회의|27<br>09:00-10:00 회의<br>10:00-11:00 이게 반도체야<br>11:00-12:00 Da.ro<br>12:00-15:00 과제 연구원 미팅<br>15:30-16:30 교육 특구 미팅<br>16:30-17:30 AeroCare|28<br>AI&강원 반도체 포럼|29<br>AI&강원 반도체 포럼|30|
 |11/2<br>09:00-10:00 최강도전<br>10:00-11:00 수업<br>11:00-12:00 first seed|3<br>09:00-10:00 회의|4<br>[APCMBE 2026](https://apcmbe2026.org/)|5<br>APCMBE 2026|6<br>APCMBE 2026|
 |11/9<br>[nvidia AI Day seoul](https://www.nvidia.com/ko-kr/ai-days/)|10<br>nvidia AI Day seoul|11|12<br>Y-mas 경진대회|13<br>Y-mas 경진대회|
 |11/16|17<br>09:00-10:00 회의|18|19<br>17:00-20:00 (가칭)멘토링 데이(오크벨리)|20<br>09:00-12:00 멘토링 데이(오크벨리)|
@@ -46,7 +46,7 @@
 |최강도전|최선우<br>강환일<br>|4|
 |first seed|노은정<br>정유라<br>송채원<br>|3|
 |Da.ro|김정현<br>최은호<br>|3|
-|AeroCare|유승훈<br>강우진<br>|2|
+|AeroCare|유승훈<br>강우진<br>|3|
 |채크메이트|채미주<br>채홍범<br>|2|
 |이게 반도체|김성경<br>백승훈<br>|2|
 
