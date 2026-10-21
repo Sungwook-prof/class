@@ -1,6 +1,6 @@
 # 기말 대처
 
-<img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062554560_01.jpg" width="70%" height="70%" title="강원 포럼" alt=" "></img>
+<img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062554560.jpg" width="70%" height="70%" title="강원 포럼" alt=" "></img>
 
 ○ 장소: 원주 의료기기산업진흥원
 
