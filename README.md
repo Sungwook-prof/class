@@ -2,20 +2,9 @@
 
 ## 접수 관련, 주제, 마감 등의 상세 정보는 입수하는 대로 공지 예정
 
-○ 초안 참고 : [challenge_draft.pdf]([file://challenge_drafe.pdf](https://github.com/neverendingedu/class/blob/main/challenge_draft.pdf))
-
-[참가 양식](https://github.com/neverendingedu/class/blob/main/261012_2026%20%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EB%B0%98%EB%8F%84%EC%B2%B4%20%ED%8F%AC%EB%9F%BC%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C(%EC%95%88)%20V2.hwp)  <-- 파일 선택해서 다운버튼으로 다운로드 가능함.
-
-- 포스터에서 내용이 들어가는 부분은 1면당 845x1400mm 
-
-○ 행사명: 2026 강원 반도체 포럼
-
-○ 일정: 2026년 10월28일 ~ 29일
- |일시|일정|
- |-|-|
- |10월28일 16:50-17:50|강원도내 대학생 AI&반도체 아이디어 경진대회(대학생)|
- |10월29일 16:20-17:30|강원도내 대학생 AI&반도체 아이디어 경진대회(대학원생)|
- |10월29일 17:30-17:50|아이디어경진대회 시상|
+<img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062549562.jpg" width="50%" height="50%" title="강원 포럼" alt=" "></img>
+<img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062549560.jpg" width="50%" height="50%" title="강원 포럼" alt=" "></img>
+<img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062549560_01.jpg" width="50%" height="50%" title="강원 포럼" alt=" "></img>
 
 ○ 장소: 원주 의료기기산업진흥원
 
