@@ -1,10 +1,6 @@
 # 기말 대처
 
-## 접수 관련, 주제, 마감 등의 상세 정보는 입수하는 대로 공지 예정
-
-<img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062549562.jpg" width="50%" height="50%" title="강원 포럼" alt=" "></img>
-<img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062554560.jpg" width="50%" height="50%" title="강원 포럼" alt=" "></img>
-<img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062554560_01.jpg" width="50%" height="50%" title="강원 포럼" alt=" "></img>
+<img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062554560_01.jpg" width="70%" height="70%" title="강원 포럼" alt=" "></img>
 
 ○ 장소: 원주 의료기기산업진흥원
 
