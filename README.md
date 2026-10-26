@@ -1,3 +1,16 @@
+# 멘토링 현장 학습 데이 
+
+○ 장소: 오크밸리
+
+○ 일시: 11월 19일 오후 7시 ~20일
+
+- 차량 : 5시 또는 6시 출발 예정
+
+○ 신청: fpga@yonsei.ac.kr (반드시 보내줘야 함.)
+
+- 내용 참석자, 본인과 팀원, 그리고 같이 참여할 수업외 참여자 명단.
+- 2인 1실로 같이 숙박 원하는 경우 2인을 묶어주면 방배정(혼숙 불가).
+
 # 기말 대처
 
 <img src="https://github.com/neverendingedu/class/blob/main/KakaoTalk_20261021_062554560.jpg" width="70%" height="70%" title="강원 포럼" alt=" "></img>
